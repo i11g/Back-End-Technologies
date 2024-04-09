@@ -1,0 +1,11 @@
+[ 
+    { }, { }, 
+    { 
+        "name": "slavi", 
+        "location": {
+            "city": "new york",
+            "state": "pensilvaniay"            
+        }       
+
+    } 
+]

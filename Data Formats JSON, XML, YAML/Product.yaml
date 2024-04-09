@@ -1,0 +1,30 @@
+name: Product A
+price: 100
+isAvailable: true
+items: 
+  - Item1
+  - Item2
+bar: null
+adress: 
+ street: 123 Pleven
+ city: Sofia
+ state: Sofia 
+foo: ~
+# Comments in YAML file
+hobbies:
+  - running
+  - futbol
+  - tenis
+
+message: >
+  this is a normal string
+  written on multiple lines
+  and needs to be treated
+  as a multi-line string
+jobs:
+ - company: SoftUni
+   title: Software Engineer
+ - company: Jobs
+   title: Junior Softawre Enginer
+
+   

@@ -1,0 +1,16 @@
+- name: Switzerland
+  capital: Bern
+  population: 8.5
+  Languages: [german,french,italian,romanish]
+- name: Canada
+  capital: Ottawa
+  population: 38
+  languages: [english, french]
+- name: Belgium
+  capital: Brussels
+  population: 11.5
+  languages: [dutch,french,german]
+- name: south africa
+  capital: Pretoria
+  population: 123
+  languages: [duch,zulu,english] 

@@ -1,0 +1,28 @@
+[
+{
+    "product name": "apple",
+    "price" : 1.50,
+    "description" : "fresh green apples",
+    "keywords": ["juicy", "green", "crunchy"]
+},
+{
+    "product name": "banana",
+    "price" : 0.30,
+    "description": "ripe yellow bananas",
+    "keywords": ["sweet", "yellow", "soft"]
+
+},
+{
+    "product name": "orange juice",
+    "price" : 3.00,
+    "description": "freshly squeezed orange ",
+    "keywords": ["sweet", "yellow", "soft"]
+
+},
+{
+    "product name": "chocolate  cake",
+    "price" : 5.00,
+    "description": "rich and moist chocolate cake",
+    "keywords": ["chocolatery", "rich", "creamy"]
+}
+]

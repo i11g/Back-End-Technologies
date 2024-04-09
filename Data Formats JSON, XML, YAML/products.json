@@ -1,0 +1,10 @@
+
+{
+
+   "name": "Banana",
+   "price": 123,
+   "isAvailable": true,
+   "description": "This is a banana",
+   "tags": ["food", "tropical", "fruit", 1, false, true, { }]
+   
+}
