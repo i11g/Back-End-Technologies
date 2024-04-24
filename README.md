@@ -1,1 +1,1 @@
-# Back-End-Technologies
+This repo includes all exercises, materials and practical tasks fot Back-End Technologies Course at SoftUni.
