@@ -12,10 +12,12 @@ This repository contains my solutions of the tasks and projects included in Back
 
 ## General Information
 The course is part of SoftUni QA Automation Program and focus on:
-- associative arrays, lambda expressions, LINQ, regular expressions
-- object-oriented programming, including classes and objects, inheritance, and interfaces
-- unit testing
-- Why did you undertake it?
+- The course is part of SoftUni QA Automation Program and focus on:
+- Работа с файлови формати за данни: JSON, YAML and XML
+- Създаване на компонентни тестове
+- Тестване на Web API/ MVC приложения
+- Mocking на данни при тестване
+- Работа с виртуализация и контейнери
 
 ## Technologies Used
 - C # - version 1.0
@@ -23,13 +25,11 @@ The course is part of SoftUni QA Automation Program and focus on:
 - N Unit - version 3.0
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on 
-- Many thanks to...
+
+- Many thanks to SoftUni
 
 ## Contact
 Created by [](https://) - feel free to contact me!
 
 ## License 
-This project is open source and available under the MIT License. 
+This repo is open source and available under the MIT License. 
