@@ -13,23 +13,11 @@ This repository contains my solutions of the tasks and projects included in Back
 ## General Information
 The course is part of SoftUni QA Automation Program and focus on:
 - The course is part of SoftUni QA Automation Program and focus on:
-- Работа с файлови формати за данни: JSON, YAML and XML
-- Създаване на компонентни тестове
-- Тестване на Web API/ MVC приложения
-- Mocking на данни при тестване
-- Работа с виртуализация и контейнери
+- Working with data file formats: JSON, YAML and XML
+- Create component tests
+- Testing of Web API/ MVC applications
+- Mocking data in testing
+- Working with virtualization and containers
 
-## Technologies Used
-- C # - version 1.0
-- Java Script - version 2.0
-- N Unit - version 3.0
 
-## Acknowledgements
 
-- Many thanks to SoftUni
-
-## Contact
-Created by [](https://) - feel free to contact me!
-
-## License 
-This repo is open source and available under the MIT License. 
