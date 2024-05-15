@@ -27,7 +27,7 @@ The course is part of SoftUni QA Automation Program and focus on:
 - Many thanks to SoftUni
 
 ## Contact
-Created by [i11g](https:/i11g.githug.io) - feel free to contact me!
+Created by [i11g](https://i11g.github.io/) - feel free to contact me!
 
 ## License 
 This repo is open source and available under the MIT License. 
